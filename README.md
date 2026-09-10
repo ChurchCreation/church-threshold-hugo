@@ -4,6 +4,12 @@ A free website template for church plants, multisite churches and contemporary c
 
 **[Live demo](https://churchcreation.com/demo/threshold/)** · **[About this template](https://churchcreation.com/templates/threshold/)** · 6 pages · MIT
 
+![Home page](https://raw.githubusercontent.com/ChurchCreation/church-threshold-hugo/main/images/preview.jpg)
+
+| Dark mode | On a phone |
+|---|---|
+| ![The same page in dark mode](https://raw.githubusercontent.com/ChurchCreation/church-threshold-hugo/main/images/preview-dark.jpg) | ![The same page on a phone](https://raw.githubusercontent.com/ChurchCreation/church-threshold-hugo/main/images/preview-mobile.jpg) |
+
 ## Getting started
 
 Needs Hugo 0.150+ (extended not required).
