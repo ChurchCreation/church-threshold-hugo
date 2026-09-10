@@ -2,11 +2,10 @@ name = "Threshold"
 license = "MIT"
 licenselink = "https://github.com/ChurchCreation/church-threshold-hugo/blob/main/LICENSE.md"
 description = "A free website template for church plants, multisite churches and contemporary congregations. A fixed side rail instead of a hero, pages for locations, next steps and messages, and a layout that stays legible when a church meets in three places at two times. Self-hosted typefaces, dark mode, and no external requests."
-homepage = "https://churchcreation.com/templates/threshold/"
+homepage = "https://github.com/ChurchCreation/church-threshold-hugo"
 demosite = "https://churchcreation.com/demo/threshold/"
-tags = ["church", "nonprofit", "responsive", "dark mode", "accessibility"]
+tags = ["church", "nonprofit", "responsive", "dark-mode", "accessibility"]
 features = ["responsive", "dark mode", "self-hosted fonts", "no external requests", "structured data"]
-min_version = "0.150.0"
 
 [author]
   name = "ChurchCreation"
