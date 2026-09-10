@@ -1,0 +1,13 @@
+name = "Threshold"
+license = "MIT"
+licenselink = "https://github.com/ChurchCreation/church-threshold-hugo/blob/main/LICENSE"
+description = "Sundays at 9 & 11am on Riverside, 11am in East Austin. A church for people who thought church wasn't for them."
+homepage = "https://churchcreation.com/templates/threshold/"
+demosite = "https://churchcreation.com/demo/threshold/"
+tags = ["church", "nonprofit", "responsive", "dark mode", "accessibility"]
+features = ["responsive", "dark mode", "self-hosted fonts", "no external requests", "structured data"]
+min_version = "0.150.0"
+
+[author]
+  name = "ChurchCreation"
+  homepage = "https://churchcreation.com/"

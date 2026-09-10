@@ -9,13 +9,23 @@ Sundays at 9 & 11am on Riverside, 11am in East Austin. A church for people who t
 Needs Hugo 0.150+ (extended not required).
 
 ```bash
-hugo server
+git submodule add https://github.com/ChurchCreation/church-threshold-hugo.git themes/church-threshold-hugo
 ```
 
-Then build:
+Then set the theme in your site's configuration:
+
+```toml
+theme = 'church-threshold-hugo'
+uglyURLs = true          # the runtime resolves paths from a flat .html URL
+
+[security]
+  allowContent = ['^text/html$', '^text/markdown$']
+```
+
+To see it with this parish's pages, run the bundled example site:
 
 ```bash
-hugo          # writes public/
+cd exampleSite && hugo server --themesDir ../..
 ```
 
 ## Making it your church's
